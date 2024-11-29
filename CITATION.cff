@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "A Jupyter Notebook from #semanticClimate - Liberating knowledge from climate-related reports"
 authors:
-- family-names: "name"
-  given-names: "name"
-  orcid: "https://orcid.org/"
-title: "Notebook Title"
+- family-names: "Murray-Rust"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0001-6098-7861"
+title: "RAG Tests for Climate Literature"
 version: 0.0.1
 doi: 
-date-released: 2024-03-20
-url: "https://github.com/semanticClimate/"
+date-released: 2024-11-29
+url: "https://github.com/semanticClimate/rag-test"

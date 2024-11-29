@@ -1,8 +1,10 @@
-# CoLab Notebook
+# RAG Test for Climate Literature
 
-*This is a teplate repository. Instructions for use are [here](https://github.com/semanticClimate/Research-Catalogue/wiki/Cataloging-Colab-Notebooks). Delete this line of text when your publish your own repository.*
+The tests being carried out are to see if the use of RAG technology make LLM AI reliable enough for use with scientific climate literature.
 
-Add your DOI Zenodo badge here.
+An example would be to summarise a selection of articles from a semi-automated literature search of IPCC Reports on different topics, e.g., city and regional climate plans.
+
+--
 
 A Jupyter Notebook from #semantic*Climate* - Liberating knowledge from climate-related reports
 
